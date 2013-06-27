@@ -1,0 +1,5 @@
+gcc -Wall -g -o moomaster moomaster.c inventory.c movement.c combat.c -lm
+gcc -g -o monitor monitor.c -lcurses
+cd ..
+tar -czf moomaster.tar.gz moomaster/*.c moomaster/*.h
+cd moomaster

@@ -1,0 +1,529 @@
+Coming up
+Beginning play
+Sent refresh request (Traffic timeout is 6, turncount is 0, prayertimer = 299)
+Found interesting area @ 8.3 (traffic'd 1, timeout 6)
+Found interesting area @ 9.17 (traffic'd 0, timeout 6)
+Found interesting area @ 9.17 (traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 8, prayertimer = 291)
+Found interesting area @ 9.17 (traffic'd 0, timeout 6)
+Found interesting area @ 9.17 (traffic'd 0, timeout 6)
+IDed longsword
+Refreshed inventory
+Sent refresh request (Traffic timeout is 6, turncount is 15, prayertimer = 284)
+Found interesting area @ 9.17 (traffic'd 0, timeout 6)
+Found interesting area @ 8.5 (traffic'd 1, timeout 6)
+Found interesting area @ 9.17 (traffic'd 2, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 23, prayertimer = 276)
+Found interesting area @ 8.5 (traffic'd 1, timeout 6)
+Found interesting area @ 8.5 (traffic'd 1, timeout 6)
+Found interesting area @ 8.5 (traffic'd 1, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 30, prayertimer = 269)
+Found interesting area @ 8.5 (traffic'd 1, timeout 6)
+Found interesting area @ 8.5 (traffic'd 2, timeout 6)
+Found interesting area @ 8.3 (traffic'd 3, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 38, prayertimer = 261)
+Found pass 1 interesting corridor @ 9.3 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 10.3 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 11.3 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 12.3 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 13.3 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 14.3 (100 away, traffic'd 0, timeout 6)
+IDed longsword
+Refreshed inventory
+Found pass 1 interesting corridor @ 15.3 (100 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 46, prayertimer = 253)
+Found pass 1 interesting corridor @ 16.3 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 9.5 (728 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 16.3 (200 away, traffic'd 1, timeout 6)
+Found pass 1 interesting corridor @ 9.5 (728 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 16.3 (200 away, traffic'd 2, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 55, prayertimer = 244)
+Found pass 1 interesting corridor @ 9.5 (728 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 16.3 (300 away, traffic'd 3, timeout 6)
+Found monster (:) @ 8.3. I am at 15.3
+naively attacking 8.3 by moving 4
+Found monster (:) @ 8.3. I am at 14.3
+naively attacking 8.3 by moving 4
+Found pass 1 interesting corridor @ 16.3 (300 away, traffic'd 3, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 63, prayertimer = 236)
+Found pass 1 interesting corridor @ 16.3 (100 away, traffic'd 3, timeout 6)
+Found pass 1 interesting corridor @ 9.5 (728 away, traffic'd 0, timeout 6)
+Found monster (:) @ 12.3. I am at 13.3
+naively attacking 12.3 by moving 4
+Found pass 1 interesting corridor @ 9.5 (360 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 72, prayertimer = 227)
+Found pass 1 interesting corridor @ 9.5 (200 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 9.5 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 10.5 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 11.5 (100 away, traffic'd 0, timeout 6)
+IDed longsword
+Refreshed inventory
+Found pass 1 interesting corridor @ 12.5 (100 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 80, prayertimer = 219)
+Found pass 1 interesting corridor @ 13.5 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 14.6 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 15.7 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 16.8 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 17.9 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 18.10 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 19.11 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 20.12 (141 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 88, prayertimer = 211)
+Found pass 1 interesting corridor @ 21.13 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 22.14 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 23.14 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 24.13 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 24.12 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 24.11 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 24.10 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 24.9 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 23.8 (141 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 97, prayertimer = 202)
+Found pass 1 interesting corridor @ 23.7 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 23.6 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 23.5 (100 away, traffic'd 0, timeout 6)
+Found interesting area @ 24.4 (traffic'd 1, timeout 6)
+Found door @ 26.7. I am at 24.4
+Found door @ 26.7. I am at 25.5
+Found door @ 26.7. I am at 25.6
+Sent refresh request (Traffic timeout is 6, turncount is 104, prayertimer = 195)
+Found interesting area @ 24.4 (traffic'd 3, timeout 6)
+Found monster (d) @ 26.7. I am at 25.5
+naively attacking 26.7 by moving 2
+Found monster (d) @ 26.7. I am at 25.6
+naively attacking 26.7 by moving 3
+Found food @ 26.7. I am at 25.6
+Found food @ 26.7. I am at 26.6
+Found the food at 2
+Found a corpse
+lastdirection = 2 (26.7, I am at 26.6)
+eating corpse
+Found something fun to eat
+Sent refresh request (Traffic timeout is 6, turncount is 109, prayertimer = 190)
+IDed longsword
+Refreshed inventory
+Found monster (d) @ 27.8. I am at 26.7
+naively attacking 27.8 by moving 2
+Found monster (d) @ 27.8. I am at 26.8
+naively attacking 27.8 by moving 6
+Sent refresh request (Traffic timeout is 6, turncount is 111, prayertimer = 188)
+Found monster (d) @ 27.8. I am at 26.8
+naively attacking 27.8 by moving 6
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+Sent refresh request (Traffic timeout is 6, turncount is 118, prayertimer = 181)
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+Sent refresh request (Traffic timeout is 6, turncount is 125, prayertimer = 174)
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+Sent refresh request (Traffic timeout is 6, turncount is 133, prayertimer = 166)
+Found food @ 27.8. I am at 26.8
+Found the food at 6
+Found a corpse
+lastdirection = 6 (27.8, I am at 26.8)
+eating corpse
+Found something fun to eat
+IDed longsword
+Refreshed inventory
+Found pass 1 interesting corridor @ 28.8 (100 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 135, prayertimer = 164)
+Found pass 1 interesting corridor @ 29.8 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 30.8 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 31.8 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 32.9 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 33.10 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 34.11 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 35.12 (141 away, traffic'd 0, timeout 6)
+Found door @ 35.13. I am at 35.12
+Sent refresh request (Traffic timeout is 6, turncount is 143, prayertimer = 156)
+Found door @ 35.13. I am at 35.12
+Found monster (x) @ 35.14. I am at 35.12
+flinging daggers @ 2 (2.000000 distance)
+Found monster (x) @ 35.13. I am at 35.12
+naively attacking 35.13 by moving 2
+Found good item @ 35.14. I am at 35.12
+Found monster (x) @ 33.15. I am at 35.13
+naively attacking 33.15 by moving 2
+whee for guns and buttah!!!
+Found something fun to pick up. I am at 35.13
+Found monster (x) @ 34.14. I am at 35.14
+naively attacking 34.14 by moving 4
+Found monster (x) @ 34.14. I am at 35.14
+naively attacking 34.14 by moving 4
+Sent refresh request (Traffic timeout is 6, turncount is 150, prayertimer = 149)
+Found monster (F) @ 29.14. I am at 35.14
+naively attacking 29.14 by moving 1
+Found monster (F) @ 29.14. I am at 34.15
+naively attacking 29.14 by moving 1
+Found monster (F) @ 29.14. I am at 33.16
+naively attacking 29.14 by moving 1
+Found monster (F) @ 29.14. I am at 32.17
+naively attacking 29.14 by moving 7
+Found monster (F) @ 29.15. I am at 31.16
+naively attacking 29.15 by moving 4
+Found monster (F) @ 29.15. I am at 30.16
+naively attacking 29.15 by moving 7
+Found monster (F) @ 29.15. I am at 30.16
+naively attacking 29.15 by moving 7
+Found food @ 29.15. I am at 30.16
+Found the food at 7
+Found a corpse
+lastdirection = 7 (29.15, I am at 30.16)
+I killed something at 29.15, but I'm at 30.16
+Found something fun to pick up. I am at 30.16
+Sent refresh request (Traffic timeout is 6, turncount is 158, prayertimer = 141)
+Found good item @ 36.15. I am at 29.15
+Found good item @ 36.15. I am at 30.16
+Found good item @ 36.15. I am at 31.17
+IDed longsword
+Refreshed inventory
+Found good item @ 36.15. I am at 32.18
+Sent refresh request (Traffic timeout is 6, turncount is 162, prayertimer = 137)
+Found good item @ 36.15. I am at 33.18
+Found good item @ 36.15. I am at 34.17
+Found good item @ 36.15. I am at 35.16
+Found something fun to pick up. I am at 35.16
+Found interesting area @ 38.19 (traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 39.19 (100 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 170, prayertimer = 129)
+Found interesting area @ 38.19 (traffic'd 2, timeout 6)
+Found pass 1 interesting corridor @ 40.19 (200 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 41.19 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 42.18 (141 away, traffic'd 0, timeout 6)
+Found door @ 43.18. I am at 42.18
+Found interesting area @ 44.18 (traffic'd 1, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 177, prayertimer = 122)
+Found interesting area @ 50.17 (traffic'd 0, timeout 6)
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+Sent refresh request (Traffic timeout is 6, turncount is 185, prayertimer = 114)
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+oshi about to die. resting.
+IDed longsword
+Refreshed inventory
+oshi about to die. resting.
+Sent refresh request (Traffic timeout is 6, turncount is 193, prayertimer = 106)
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Sent refresh request (Traffic timeout is 6, turncount is 199, prayertimer = 100)
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Sent refresh request (Traffic timeout is 6, turncount is 207, prayertimer = 92)
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+oshi about to die. resting.
+Cursor is at 47.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 47.19
+Found staircase @ 31.18. I am at 47.19
+Cursor is at 46.19, last known pos is 47.19, @ is at 0.22, 0 @ in view, I am at 46.19
+Found staircase @ 31.18. I am at 46.19
+Cursor is at 45.19, last known pos is 46.19, @ is at 0.22, 0 @ in view, I am at 45.19
+Found staircase @ 31.18. I am at 45.19
+Cursor is at 44.18, last known pos is 45.19, @ is at 0.22, 0 @ in view, I am at 44.18
+Found staircase @ 31.18. I am at 44.18
+Sent refresh request (Traffic timeout is 6, turncount is 214, prayertimer = 85)
+Cursor is at 43.18, last known pos is 44.18, @ is at 0.22, 0 @ in view, I am at 43.18
+Found staircase @ 31.18. I am at 43.18
+Cursor is at 42.18, last known pos is 43.18, @ is at 0.22, 0 @ in view, I am at 42.18
+Found staircase @ 31.18. I am at 42.18
+Cursor is at 41.19, last known pos is 42.18, @ is at 0.22, 0 @ in view, I am at 41.19
+Found staircase @ 31.18. I am at 41.19
+Cursor is at 40.19, last known pos is 41.19, @ is at 0.22, 0 @ in view, I am at 40.19
+Found staircase @ 31.18. I am at 40.19
+Cursor is at 39.19, last known pos is 40.19, @ is at 0.22, 0 @ in view, I am at 39.19
+Found staircase @ 31.18. I am at 39.19
+Cursor is at 38.19, last known pos is 39.19, @ is at 0.22, 0 @ in view, I am at 38.19
+Found monster (o) @ 37.18. I am at 38.19
+naively attacking 37.18 by moving 7
+Cursor is at 38.19, last known pos is 38.19, @ is at 0.22, 0 @ in view, I am at 38.19
+Found food @ 37.18. I am at 38.19
+Found the food at 7
+Found a corpse
+lastdirection = 7 (37.18, I am at 38.19)
+I killed something at 37.18, but I'm at 38.19
+whee for guns and buttah!!!
+Found something fun to pick up. I am at 38.19
+Sent refresh request (Traffic timeout is 6, turncount is 221, prayertimer = 78)
+IDed longsword
+Refreshed inventory
+Cursor is at 37.18, last known pos is 38.19, @ is at 0.22, 0 @ in view, I am at 37.18
+Found food @ 37.18. I am at 37.18
+Found the food at s
+Sent refresh request (Traffic timeout is 6, turncount is 222, prayertimer = 77)
+Cursor is at 37.18, last known pos is 37.18, @ is at 0.22, 0 @ in view, I am at 37.18
+Found food @ 37.18. I am at 37.18
+Found the food at s
+Cursor is at 37.18, last known pos is 37.18, @ is at 0.22, 0 @ in view, I am at 37.18
+Found staircase @ 31.18. I am at 37.18
+Cursor is at 36.19, last known pos is 37.18, @ is at 0.22, 0 @ in view, I am at 36.19
+Found staircase @ 31.18. I am at 36.19
+Found staircase @ 31.18. I am at 35.19
+Sent refresh request (Traffic timeout is 6, turncount is 226, prayertimer = 73)
+Found staircase @ 31.18. I am at 34.19
+Found staircase @ 31.18. I am at 33.19
+Found staircase @ 31.18. I am at 32.19
+Clearing memory
+Found good item @ 64.19. I am at 72.18
+Found good item @ 64.19. I am at 71.19
+Found good item @ 64.19. I am at 70.19
+Found good item @ 64.19. I am at 69.19
+Found good item @ 64.19. I am at 68.19
+Sent refresh request (Traffic timeout is 6, turncount is 6, prayertimer = 65)
+Found good item @ 64.19. I am at 67.19
+Found good item @ 64.19. I am at 66.19
+Found good item @ 64.19. I am at 65.19
+Found something fun to pick up. I am at 65.19
+Found interesting area @ 64.15 (traffic'd 0, timeout 6)
+Found interesting area @ 64.15 (traffic'd 1, timeout 6)
+Found interesting area @ 68.15 (traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 14, prayertimer = 57)
+IDed longsword
+Refreshed inventory
+Found pass 1 interesting corridor @ 67.14 (141 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 18, prayertimer = 53)
+Found interesting area @ 68.15 (traffic'd 2, timeout 6)
+Found pass 1 interesting corridor @ 63.14 (509 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 63.14 (282 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 62.14 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 61.13 (141 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 26, prayertimer = 45)
+Found pass 1 interesting corridor @ 61.12 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 61.11 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 61.10 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 61.9 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 61.8 (100 away, traffic'd 0, timeout 6)
+Found interesting area @ 60.7 (traffic'd 1, timeout 6)
+Found interesting area @ 59.6 (traffic'd 1, timeout 6)
+Found interesting area @ 56.5 (traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 34, prayertimer = 37)
+Found interesting area @ 56.5 (traffic'd 1, timeout 6)
+Found interesting area @ 56.7 (traffic'd 1, timeout 6)
+Found door @ 57.8. I am at 56.7
+Found door @ 57.8. I am at 56.7
+Found interesting area @ 56.5 (traffic'd 3, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 42, prayertimer = 29)
+Found interesting area @ 60.7 (traffic'd 2, timeout 6)
+Found pass 1 interesting corridor @ 59.4 (316 away, traffic'd 0, timeout 6)
+IDed longsword
+Refreshed inventory
+Found pass 1 interesting corridor @ 55.5 (412 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 50, prayertimer = 21)
+Found pass 1 interesting corridor @ 54.5 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 55.7 (223 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 58, prayertimer = 13)
+Found pass 1 interesting corridor @ 55.7 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 54.7 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 53.7 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 52.7 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 51.7 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 50.7 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 49.8 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 49.9 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 60.14 (1208 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 67, prayertimer = 4)
+Found pass 1 interesting corridor @ 49.9 (223 away, traffic'd 1, timeout 6)
+Found pass 1 interesting corridor @ 60.14 (1208 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 49.9 (282 away, traffic'd 2, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 75, prayertimer = 0)
+Found pass 1 interesting corridor @ 60.14 (1208 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 54.5 (282 away, traffic'd 1, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 83, prayertimer = 0)
+IDed longsword
+Refreshed inventory
+Found pass 1 interesting corridor @ 54.5 (223 away, traffic'd 1, timeout 6)
+Found pass 1 interesting corridor @ 54.5 (100 away, traffic'd 1, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 88, prayertimer = 0)
+Found pass 1 interesting corridor @ 57.8 (424 away, traffic'd 2, timeout 6)
+Found pass 1 interesting corridor @ 57.4 (200 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 59.4 (200 away, traffic'd 1, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 95, prayertimer = 0)
+Found pass 1 interesting corridor @ 57.8 (447 away, traffic'd 2, timeout 6)
+Found pass 1 interesting corridor @ 60.14 (670 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 102, prayertimer = 0)
+Found pass 1 interesting corridor @ 57.8 (223 away, traffic'd 3, timeout 6)
+Found pass 1 interesting corridor @ 60.14 (670 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 109, prayertimer = 0)
+Found pass 1 interesting corridor @ 59.4 (316 away, traffic'd 2, timeout 6)
+IDed longsword
+Refreshed inventory
+Found pass 1 interesting corridor @ 57.8 (447 away, traffic'd 4, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 113, prayertimer = 0)
+Found pass 1 interesting corridor @ 57.8 (100 away, traffic'd 4, timeout 6)
+Found pass 1 interesting corridor @ 60.14 (670 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 120, prayertimer = 0)
+Found pass 1 interesting corridor @ 59.4 (316 away, traffic'd 3, timeout 6)
+Found pass 1 interesting corridor @ 57.4 (141 away, traffic'd 1, timeout 6)
+Found pass 1 interesting corridor @ 59.4 (200 away, traffic'd 3, timeout 6)
+Found pass 1 interesting corridor @ 57.8 (447 away, traffic'd 5, timeout 6)
+Found pass 1 interesting corridor @ 57.4 (200 away, traffic'd 2, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 128, prayertimer = 0)
+Found pass 1 interesting corridor @ 59.4 (200 away, traffic'd 4, timeout 6)
+Found pass 1 interesting corridor @ 57.8 (447 away, traffic'd 5, timeout 6)
+Found pass 1 interesting corridor @ 57.8 (100 away, traffic'd 5, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 135, prayertimer = 0)
+Found pass 1 interesting corridor @ 57.9 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 60.14 (583 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 57.9 (223 away, traffic'd 1, timeout 6)
+IDed longsword
+Refreshed inventory
+Sent refresh request (Traffic timeout is 6, turncount is 142, prayertimer = 0)
+Found pass 1 interesting corridor @ 60.14 (583 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 57.9 (223 away, traffic'd 2, timeout 6)
+Found pass 1 interesting corridor @ 57.9 (100 away, traffic'd 2, timeout 6)
+Found pass 1 interesting corridor @ 60.14 (583 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 150, prayertimer = 0)
+Found pass 1 interesting corridor @ 57.9 (223 away, traffic'd 3, timeout 6)
+Found pass 1 interesting corridor @ 57.9 (100 away, traffic'd 3, timeout 6)
+Found pass 1 interesting corridor @ 60.14 (583 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 157, prayertimer = 0)
+Found pass 1 interesting corridor @ 57.9 (282 away, traffic'd 4, timeout 6)
+Found pass 1 interesting corridor @ 57.9 (100 away, traffic'd 4, timeout 6)
+Found pass 1 interesting corridor @ 60.14 (583 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 165, prayertimer = 0)
+Found pass 1 interesting corridor @ 57.9 (223 away, traffic'd 5, timeout 6)
+Found pass 1 interesting corridor @ 57.4 (500 away, traffic'd 3, timeout 6)
+IDed longsword
+Refreshed inventory
+Sent refresh request (Traffic timeout is 6, turncount is 172, prayertimer = 0)
+Found pass 1 interesting corridor @ 57.4 (141 away, traffic'd 3, timeout 6)
+Found pass 1 interesting corridor @ 59.4 (200 away, traffic'd 5, timeout 6)
+Found pass 1 interesting corridor @ 57.4 (200 away, traffic'd 4, timeout 6)
+Found pass 1 interesting corridor @ 54.5 (316 away, traffic'd 2, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 180, prayertimer = 0)
+Found pass 1 interesting corridor @ 53.5 (100 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 52.5 (100 away, traffic'd 0, timeout 6)
+Found monster (o) @ 51.5. I am at 52.5
+naively attacking 51.5 by moving 4
+Found good item @ 51.5. I am at 52.5
+whee for guns and buttah!!!
+Found something fun to pick up. I am at 52.5
+Found pass 1 interesting corridor @ 50.5 (100 away, traffic'd 0, timeout 6)
+Found interesting area @ 47.5 (traffic'd 0, timeout 6)
+Found monster (d) @ 46.6. I am at 48.5
+naively attacking 46.6 by moving 4
+Sent refresh request (Traffic timeout is 6, turncount is 188, prayertimer = 0)
+Found monster (d) @ 46.6. I am at 47.5
+naively attacking 46.6 by moving 1
+Found interesting area @ 45.8 (traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 192, prayertimer = 0)
+Found interesting area @ 45.8 (traffic'd 1, timeout 6)
+Found interesting area @ 38.6 (traffic'd 0, timeout 6)
+Found interesting area @ 38.6 (traffic'd 0, timeout 6)
+IDed longsword
+Refreshed inventory
+Sent refresh request (Traffic timeout is 6, turncount is 199, prayertimer = 0)
+Found staircase @ 46.7. I am at 38.6
+Found staircase @ 46.7. I am at 39.7
+Found staircase @ 46.7. I am at 40.7
+Found staircase @ 46.7. I am at 41.7
+Found staircase @ 46.7. I am at 42.7
+Found staircase @ 46.7. I am at 43.7
+Found staircase @ 46.7. I am at 44.7
+Sent refresh request (Traffic timeout is 6, turncount is 207, prayertimer = 0)
+Found staircase @ 46.7. I am at 45.8
+Found door @ 20.4. I am at 9.4
+Found door @ 20.4. I am at 10.5
+Found door @ 20.4. I am at 11.5
+Found door @ 20.4. I am at 12.5
+Found door @ 20.4. I am at 13.5
+Found door @ 20.4. I am at 14.5
+Sent refresh request (Traffic timeout is 6, turncount is 214, prayertimer = 0)
+Found door @ 20.4. I am at 15.5
+Clearing memory
+Found door @ 20.4. I am at 16.5
+Found door @ 20.4. I am at 17.5
+Found door @ 20.4. I am at 18.5
+Found door @ 20.4. I am at 19.5
+Found interesting area @ 10.6 (traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 8, prayertimer = 0)
+Found interesting area @ 10.6 (traffic'd 0, timeout 6)
+Found interesting area @ 10.6 (traffic'd 1, timeout 6)
+IDed longsword
+Refreshed inventory
+Found pass 1 interesting corridor @ 9.7 (141 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 15, prayertimer = 0)
+Found interesting area @ 10.6 (traffic'd 3, timeout 6)
+Found pass 1 interesting corridor @ 9.8 (223 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 9.9 (100 away, traffic'd 0, timeout 6)
+Found good item @ 9.14. I am at 9.9
+Found good item @ 8.13. I am at 9.10
+investigating 8.12
+Got message @       a human or elf (peaceful Corignac)
+Found good item @ 8.13. I am at 9.11
+Sent refresh request (Traffic timeout is 6, turncount is 22, prayertimer = 0)
+Found good item @ 8.13. I am at 9.12
+whee for guns and buttah!!!
+Found something fun to pick up. I am at 9.12
+Dropping unpaid stuff
+Dropping unpaid stuff
+Dropping unpaid stuff
+Dropping unpaid stuff
+Cursor is at 8.13, last known pos is 9.12, @ is at 9.12, 2 @ in view, I am at 8.13
+investigating 9.12
+Got message @       a human or elf (peaceful Corignac)
+Found monster (m) @ 9.13. I am at 8.13
+naively attacking 9.13 by moving 6
+Cursor is at 8.13, last known pos is 8.13, @ is at 8.12, 2 @ in view, I am at 8.13
+investigating 8.12
+Got message @       a human or elf (peaceful Corignac)
+Found monster (m) @ 9.13. I am at 8.13
+naively attacking 9.13 by moving 6
+Cursor is at 8.13, last known pos is 8.13, @ is at 9.12, 2 @ in view, I am at 8.13
+investigating 9.12
+Got message @       a human or elf (peaceful Corignac)
+Found monster (m) @ 9.13. I am at 8.13
+naively attacking 9.13 by moving 6
+Cursor is at 8.13, last known pos is 8.13, @ is at 8.12, 2 @ in view, I am at 8.13
+investigating 8.12
+Got message @       a human or elf (peaceful Corignac)
+Found monster (m) @ 9.13. I am at 8.13
+naively attacking 9.13 by moving 6

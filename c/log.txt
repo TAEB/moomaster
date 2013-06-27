@@ -1,0 +1,443 @@
+Coming up
+Beginning play
+Sent refresh request (Traffic timeout is 6, turncount is 0, prayertimer = 299)
+Refreshed inventory
+Cursor is at 34.16, last known pos is 0.0, @ is at 32.16, 1 @ in view
+Found interesting area @ 26.16 (traffic'd 1, timeout 6)
+investigating 32.16
+Got message 
+Sent refresh request (Traffic timeout is 6, turncount is 2, prayertimer = 297)
+Cursor is at 27.16, last known pos is 26.16, @ is at 25.16, 1 @ in view
+Found pass 1 interesting corridor @ 24.15 (0 away, traffic'd 1, timeout 6)
+Cursor is at 26.16, last known pos is 24.15, @ is at 25.16, 1 @ in view
+Found pass 1 interesting corridor @ 25.16 (0 away, traffic'd 3, timeout 6)
+Found pass 1 interesting corridor @ 24.15 (0 away, traffic'd 2, timeout 6)
+Cursor is at 40.7, last known pos is 24.15, @ is at 24.15, 1 @ in view
+Got message 
+Got message 
+Got message 
+Got message 
+investigating 41.4
+Got message 
+investigating 44.4
+Got message 
+investigating 47.4
+Got message 
+investigating 60.4
+Got message 
+Got message 
+Got message 
+Got message 
+Got message 
+investigating 37.5
+Got message 
+investigating 40.5
+Got message 
+investigating 43.5
+Got message 
+investigating 40.6
+Got message 
+investigating 43.6
+Got message 
+investigating 46.6
+Got message 
+investigating 57.6
+Got message 
+investigating 35.7
+Got message 
+Found pass 1 interesting corridor @ 24.15 (0 away, traffic'd 3, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 8, prayertimer = 291)
+Refreshed inventory
+investigating 24.15
+Got message 
+Found pass 1 interesting corridor @ 21.13 (100 away, traffic'd 0, timeout 6)
+investigating 21.12
+Got message 
+Found pass 1 interesting corridor @ 19.10 (0 away, traffic'd 1, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 10, prayertimer = 289)
+Found pass 1 interesting corridor @ 18.9 (141 away, traffic'd 0, timeout 6)
+Found pass 1 interesting corridor @ 18.9 (223 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 17, prayertimer = 282)
+Cursor is at 40.7, last known pos is 19.10, @ is at 19.10, 1 @ in view
+Got message 
+Got message 
+Got message 
+Got message 
+investigating 41.4
+Got message 
+investigating 44.4
+Got message 
+investigating 47.4
+Got message 
+investigating 60.4
+Got message 
+Got message 
+Got message 
+Got message 
+Got message 
+investigating 37.5
+Got message 
+investigating 40.5
+Got message 
+investigating 43.5
+Got message 
+investigating 40.6
+Got message 
+investigating 43.6
+Got message 
+investigating 46.6
+Got message 
+investigating 57.6
+Got message 
+investigating 35.7
+Got message 
+Found pass 1 interesting corridor @ 17.9 (223 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 18, prayertimer = 281)
+Refreshed inventory
+investigating 19.10
+Got message 
+Cursor is at 13.10, last known pos is 15.9, @ is at 15.9, 2 @ in view
+investigating 15.9
+Got message 
+Sent refresh request (Traffic timeout is 6, turncount is 20, prayertimer = 279)
+Cursor is at 17.9, last known pos is 13.10, @ is at 16.9, 2 @ in view
+investigating 16.9
+Got message 
+investigating 13.10
+Got message 
+Cursor is at 21.11, last known pos is 17.9, @ is at 20.11, 1 @ in view
+Cursor is at 22.12, last known pos is 20.11, @ is at 21.12, 1 @ in view
+Found interesting area @ 9.8 (traffic'd 1, timeout 6)
+Cursor is at 23.13, last known pos is 21.12, @ is at 22.13, 1 @ in view
+Sent refresh request (Traffic timeout is 6, turncount is 24, prayertimer = 275)
+Cursor is at 24.14, last known pos is 22.13, @ is at 23.14, 1 @ in view
+Cursor is at 25.15, last known pos is 23.14, @ is at 24.15, 1 @ in view
+Cursor is at 40.7, last known pos is 24.15, @ is at 24.15, 1 @ in view
+Got message 
+Got message 
+Got message 
+Got message 
+investigating 41.4
+Got message 
+investigating 44.4
+Got message 
+investigating 47.4
+Got message 
+investigating 60.4
+Got message 
+Got message 
+Got message 
+Got message 
+Got message 
+investigating 37.5
+Got message 
+investigating 40.5
+Got message 
+investigating 43.5
+Got message 
+investigating 40.6
+Got message 
+investigating 43.6
+Got message 
+investigating 46.6
+Got message 
+investigating 57.6
+Got message 
+investigating 35.7
+Got message 
+Sent refresh request (Traffic timeout is 6, turncount is 27, prayertimer = 272)
+Refreshed inventory
+Cursor is at 31.13, last known pos is 24.15, @ is at 30.13, 2 @ in view
+investigating 30.13
+Got message 
+investigating 24.15
+Got message 
+Found pass 1 interesting corridor @ 28.13 (300 away, traffic'd 0, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 29, prayertimer = 270)
+Found door @ 34.5. I am at 32.7
+Found door @ 34.5. I am at 33.6
+Cursor is at 40.7, last known pos is 33.6, @ is at 0.22, 0 @ in view
+Got message 
+Got message 
+Got message 
+Got message 
+investigating 41.4
+Got message 
+investigating 44.4
+Got message 
+investigating 47.4
+Got message 
+investigating 60.4
+Got message 
+Got message 
+Got message 
+Got message 
+Got message 
+investigating 37.5
+Got message 
+investigating 40.5
+Got message 
+investigating 43.5
+Got message 
+investigating 40.6
+Got message 
+investigating 43.6
+Got message 
+investigating 46.6
+Got message 
+investigating 57.6
+Got message 
+investigating 35.7
+Got message 
+Found monster (d) @ 37.7. I am at 40.7
+monster is next to us. Moving 9
+Sent refresh request (Traffic timeout is 6, turncount is 35, prayertimer = 264)
+Refreshed inventory
+Found pass 1 interesting corridor @ 43.14 (141 away, traffic'd 0, timeout 6)
+Cursor is at 43.15, last known pos is 42.15, @ is at 41.15, 1 @ in view
+Found pass 1 interesting corridor @ 43.14 (223 away, traffic'd 0, timeout 6)
+Cursor is at 43.15, last known pos is 42.15, @ is at 41.15, 1 @ in view
+Sent refresh request (Traffic timeout is 6, turncount is 40, prayertimer = 259)
+Cursor is at 43.15, last known pos is 41.15, @ is at 42.15, 1 @ in view
+Cursor is at 44.15, last known pos is 42.15, @ is at 43.15, 1 @ in view
+Cursor is at 40.8, last known pos is 43.15, @ is at 43.15, 1 @ in view
+Got message 
+Got message 
+Got message 
+Got message 
+investigating 41.4
+Got message 
+investigating 44.4
+Got message 
+investigating 47.4
+Got message 
+investigating 60.4
+Got message 
+Got message 
+Got message 
+Got message 
+Got message 
+investigating 37.5
+Got message 
+investigating 40.5
+Got message 
+investigating 43.5
+Got message 
+investigating 40.6
+Got message 
+investigating 43.6
+Got message 
+investigating 46.6
+Got message 
+investigating 57.6
+Got message 
+investigating 34.7
+Got message 
+investigating 42.7
+Got message 
+investigating 44.7
+Got message 
+investigating 49.7
+Got message 
+investigating 35.8
+Got message 
+Found monster (d) @ 37.8. I am at 43.15
+monster is NOT next to us. Moving 4
+Sent refresh request (Traffic timeout is 6, turncount is 43, prayertimer = 256)
+Refreshed inventory
+investigating 43.15
+Got message 
+Found monster (d) @ 37.8. I am at 43.8
+monster is next to us. Moving 8
+Cursor is at 44.8, last known pos is 43.8, @ is at 43.8, 1 @ in view
+Found monster (d) @ 37.8. I am at 43.8
+monster is NOT next to us. Moving 8
+Sent refresh request (Traffic timeout is 6, turncount is 45, prayertimer = 254)
+Cursor is at 40.8, last known pos is 43.8, @ is at 0.22, 0 @ in view
+Got message 
+Got message 
+Got message 
+Got message 
+investigating 41.4
+Got message 
+investigating 44.4
+Got message 
+investigating 47.4
+Got message 
+investigating 60.4
+Got message 
+Got message 
+Got message 
+Got message 
+Got message 
+investigating 37.5
+Got message 
+investigating 40.5
+Got message 
+investigating 43.5
+Got message 
+investigating 40.6
+Got message 
+investigating 43.6
+Got message 
+investigating 46.6
+Got message 
+investigating 57.6
+Got message 
+investigating 34.7
+Got message 
+investigating 42.7
+Got message 
+investigating 44.7
+Got message 
+investigating 49.7
+Got message 
+investigating 35.8
+Got message 
+Found monster (d) @ 37.8. I am at 40.8
+monster is next to us. Moving 8
+Sent refresh request (Traffic timeout is 6, turncount is 46, prayertimer = 253)
+Refreshed inventory
+Cursor is at 61.15, last known pos is 40.8, @ is at 60.15, 1 @ in view
+Found interesting area @ 59.14 (traffic'd 1, timeout 6)
+Cursor is at 61.16, last known pos is 60.15, @ is at 60.15, 2 @ in view
+investigating 60.15
+Got message 
+Found interesting area @ 62.15 (traffic'd 1, timeout 6)
+Cursor is at 60.17, last known pos is 61.16, @ is at 61.16, 2 @ in view
+investigating 61.16
+Got message .       a doorway or the floor of a room or ice (floor of a room)
+investigating 58.17
+Got message 
+Found interesting area @ 59.17 (traffic'd 1, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 49, prayertimer = 250)
+Cursor is at 60.17, last known pos is 60.17, @ is at 0.22, 0 @ in view
+Found interesting area @ 59.14 (traffic'd 2, timeout 6)
+Cursor is at 60.17, last known pos is 60.17, @ is at 0.22, 0 @ in view
+Cursor is at 60.17, last known pos is 60.17, @ is at 0.22, 0 @ in view
+Cursor is at 60.17, last known pos is 60.17, @ is at 0.22, 0 @ in view
+Cursor is at 57.17, last known pos is 60.17, @ is at 56.17, 1 @ in view
+Found good item @ 57.16. I am at 56.17
+Found the good item at 9
+Nothing to see here, moving on
+Sent refresh request (Traffic timeout is 6, turncount is 54, prayertimer = 245)
+Cursor is at 57.17, last known pos is 57.16, @ is at 56.17, 1 @ in view
+Nothing to see here, moving on
+Found interesting area @ 57.13 (traffic'd 1, timeout 6)
+Cursor is at 58.15, last known pos is 57.16, @ is at 56.15, 1 @ in view
+Cursor is at 56.16, last known pos is 56.15, @ is at 55.16, 1 @ in view
+Cursor is at 55.17, last known pos is 55.16, @ is at 54.17, 1 @ in view
+Found monster (d) @ 59.13. I am at 54.17
+naively attacking 59.13 by moving 6
+Cursor is at 56.17, last known pos is 54.17, @ is at 55.17, 1 @ in view
+Found monster (d) @ 59.14. I am at 55.17
+naively attacking 59.14 by moving 6
+Cursor is at 57.17, last known pos is 55.17, @ is at 56.17, 1 @ in view
+Found monster (d) @ 58.15. I am at 56.17
+naively attacking 58.15 by moving 9
+Sent refresh request (Traffic timeout is 6, turncount is 62, prayertimer = 237)
+Squelched pile at 57.16 has obviously changed!
+Found monster (d) @ 57.16. I am at 56.17
+naively attacking 57.16 by moving 9
+Found monster (d) @ 57.16. I am at 56.17
+naively attacking 57.16 by moving 9
+Found monster (d) @ 57.16. I am at 56.17
+naively attacking 57.16 by moving 9
+Found monster (d) @ 57.16. I am at 56.17
+naively attacking 57.16 by moving 9
+Found good item @ 58.15. I am at 56.17
+Nothing to see here, moving on
+Found good item @ 58.15. I am at 57.16
+Found the good item at 9
+whee for guns and buttah!!!
+Found something fun to pick up. I am at 57.16
+Sent refresh request (Traffic timeout is 6, turncount is 68, prayertimer = 231)
+Refreshed inventory
+Sent refresh request (Traffic timeout is 6, turncount is 69, prayertimer = 230)
+Found interesting area @ 57.13 (traffic'd 2, timeout 6)
+Cursor is at 58.15, last known pos is 58.14, @ is at 57.15, 1 @ in view
+Cursor is at 57.16, last known pos is 57.15, @ is at 56.16, 1 @ in view
+Sent refresh request (Traffic timeout is 6, turncount is 76, prayertimer = 223)
+Cursor is at 56.17, last known pos is 56.16, @ is at 55.17, 1 @ in view
+Found interesting area @ 57.13 (traffic'd 3, timeout 6)
+Cursor is at 56.17, last known pos is 55.17, @ is at 54.17, 1 @ in view
+Cursor is at 55.17, last known pos is 54.17, @ is at 53.17, 1 @ in view
+Cursor is at 54.17, last known pos is 53.17, @ is at 52.17, 1 @ in view
+Cursor is at 53.17, last known pos is 52.17, @ is at 51.17, 1 @ in view
+Cursor is at 52.16, last known pos is 51.17, @ is at 50.16, 1 @ in view
+Cursor is at 51.16, last known pos is 50.16, @ is at 49.16, 1 @ in view
+Found pass 1 interesting corridor @ 57.13 (854 away, traffic'd 3, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 83, prayertimer = 216)
+Cursor is at 50.15, last known pos is 49.16, @ is at 48.15, 1 @ in view
+Cursor is at 49.14, last known pos is 48.15, @ is at 47.14, 1 @ in view
+Cursor is at 48.13, last known pos is 47.14, @ is at 46.13, 1 @ in view
+Cursor is at 47.12, last known pos is 46.13, @ is at 45.12, 1 @ in view
+Cursor is at 46.11, last known pos is 45.12, @ is at 44.11, 1 @ in view
+Found pass 1 interesting corridor @ 35.5 (1081 away, traffic'd 3, timeout 6)
+Cursor is at 44.12, last known pos is 44.11, @ is at 43.12, 1 @ in view
+Cursor is at 44.13, last known pos is 43.12, @ is at 43.13, 1 @ in view
+Cursor is at 44.14, last known pos is 43.13, @ is at 43.14, 1 @ in view
+Sent refresh request (Traffic timeout is 6, turncount is 91, prayertimer = 208)
+Cursor is at 43.15, last known pos is 43.14, @ is at 42.15, 1 @ in view
+Cursor is at 43.15, last known pos is 42.15, @ is at 41.15, 1 @ in view
+Cursor is at 42.15, last known pos is 41.15, @ is at 40.15, 1 @ in view
+Found pass 1 interesting corridor @ 35.5 (1118 away, traffic'd 3, timeout 6)
+Cursor is at 41.14, last known pos is 40.15, @ is at 39.14, 1 @ in view
+Refreshed inventory
+Cursor is at 40.13, last known pos is 39.14, @ is at 38.13, 1 @ in view
+Sent refresh request (Traffic timeout is 6, turncount is 96, prayertimer = 203)
+investigating 38.13
+Got message 
+Cursor is at 34.7, last known pos is 35.8, @ is at 32.7, 2 @ in view
+investigating 32.7
+Got message 
+investigating 35.8
+Got message 
+Cursor is at 34.7, last known pos is 34.7, @ is at 0.22, 0 @ in view
+Cursor is at 34.7, last known pos is 34.7, @ is at 0.22, 0 @ in view
+Found pass 1 interesting corridor @ 35.7 (100 away, traffic'd 3, timeout 6)
+Sent refresh request (Traffic timeout is 6, turncount is 100, prayertimer = 199)
+Cursor is at 34.7, last known pos is 34.7, @ is at 0.22, 0 @ in view
+Found pass 1 interesting corridor @ 35.7 (100 away, traffic'd 3, timeout 6)
+Cursor is at 34.7, last known pos is 34.7, @ is at 0.22, 0 @ in view
+Found pass 1 interesting corridor @ 35.7 (100 away, traffic'd 3, timeout 6)
+Clearing memory
+Found monster (Z) @ 13.16. I am at 12.16
+naively attacking 13.16 by moving 6
+Cursor is at 14.16, last known pos is 12.16, @ is at 12.16, 1 @ in view
+Found good item @ 11.16. I am at 12.16
+Found the good item at 4
+Found something fun to pick up. I am at 12.16
+Cursor is at 11.16, last known pos is 12.16, @ is at 12.16, 1 @ in view
+Found good item @ 11.16. I am at 12.16
+Found the good item at 4
+Sent refresh request (Traffic timeout is 6, turncount is 3, prayertimer = 194)
+Cursor is at 11.16, last known pos is 12.16, @ is at 12.16, 1 @ in view
+Found good item @ 11.16. I am at 12.16
+Found the good item at 4
+Found interesting area @ 13.12 (traffic'd 1, timeout 6)
+Cursor is at 13.16, last known pos is 11.16, @ is at 12.16, 1 @ in view
+Cursor is at 13.15, last known pos is 12.16, @ is at 11.15, 1 @ in view
+Sent refresh request (Traffic timeout is 6, turncount is 8, prayertimer = 189)
+Cursor is at 12.14, last known pos is 11.15, @ is at 11.14, 1 @ in view
+Found interesting area @ 14.15 (traffic'd 1, timeout 6)
+Cursor is at 14.13, last known pos is 13.12, @ is at 13.13, 1 @ in view
+Refreshed inventory
+Cursor is at 14.14, last known pos is 13.13, @ is at 13.14, 1 @ in view
+Sent refresh request (Traffic timeout is 6, turncount is 13, prayertimer = 184)
+Cursor is at 15.15, last known pos is 13.14, @ is at 13.14, 2 @ in view
+investigating 13.14
+Got message 
+Found pass 1 interesting corridor @ 15.15 (0 away, traffic'd 5, timeout 6)
+Cursor is at 40.13, last known pos is 15.15, @ is at 15.15, 1 @ in view
+Got message 
+Got message 
+Got message 
+Got message 
+investigating 41.4
+Got message 
+investigating 44.4
+Got message 
+investigating 47.4
+Got message 
+investigating 60.4
